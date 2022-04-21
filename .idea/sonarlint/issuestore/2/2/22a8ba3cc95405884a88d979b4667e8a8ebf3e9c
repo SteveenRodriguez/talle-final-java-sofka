@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü¶Ó‘ûÿÿÿÿ
+o	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿ8Ïÿ‰¶„0
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(×ïÊƒ8òÿ‰¶„0
+K
+java:S2140@")Use "java.util.Random.nextInt()" instead.(¨áÈûÿÿÿÿ8•€Š¶„0
+G
+java:S1197G"*Move the array designators [] to the type.(ì§­¼8©€Š¶„0

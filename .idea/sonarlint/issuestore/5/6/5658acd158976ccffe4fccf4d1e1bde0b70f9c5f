@@ -1,0 +1,16 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¸­¹8†×¸„0
+m	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òß¤¡8š×¸„0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌÀ¿
+‚
+java:S4165"eRemove this useless assignment; "creador" already holds the assigned value along all execution paths.(ÎœÅ¹8¸×¸„0
+
+java:S4165"dRemove this useless assignment; "titulo" already holds the assigned value along all execution paths.(Üå¥ğ8¸×¸„0
+}	java:S116"\Rename this field "numero_temporadas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÒÁñûÿÿÿÿ8¸×¸„0
+o	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íşÊÌúÿÿÿÿ8¸×¸„0
+j	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òß¤¡8¸×¸„0
+X	java:S125]"<This block of commented-out lines of code should be removed.(¥ÅˆØ8¸×¸„0
+L
+java:S1656"/Remove or correct this useless self-assignment.(ÎœÅ¹8¸×¸„0
+L
+java:S1656"/Remove or correct this useless self-assignment.(Üå¥ğ8¸×¸„0
